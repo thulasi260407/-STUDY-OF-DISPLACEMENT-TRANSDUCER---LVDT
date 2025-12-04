@@ -1,5 +1,6 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
-
+# NAME: THULASINATHAN S
+# Reg no: 212224080059
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
 OBJECTIVE:
@@ -27,9 +28,12 @@ voltages are noted down.
 7. The screw gauge is adjusted for maximum displacement and then stopped.
 8. A graph between displacement and output voltage is drawn.
 
+## TABULAR COLUMN
 
-<img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
+<img width="606" height="794" alt="image" src="https://github.com/user-attachments/assets/a633fe2d-8672-4e77-87ad-e15c8b9ade96" />
+## RESULT:
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/0384e702-8eac-4a24-ba93-54a93e7603c6" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4b37e4e1-5b54-4687-ad7e-16dbc5336207" />
 
-RESULT:
 
 
